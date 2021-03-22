@@ -1,2 +1,2 @@
 # EmergentePopUp.js
-Botón POUP Emergente en HTML con JavaScript.. 
+Botón ***POP-UP*** Emergente en HTML con JavaScript.. 
